@@ -4,6 +4,3 @@
 [submodule "LibFruit"]
 	path = LibFruit
 	url = https://gibhub.com/drunderscore/LibFruit
-[submodule "zstr"]
-	path = zstr
-	url = https://github.com/mateidavid/zstr.git
