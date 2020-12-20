@@ -1,0 +1,5 @@
+# The Happy Wars folder from Steam/steamapps/common should be copied here.
+# You can use scripts/validatehashes.lua to ensure yours is correct.
+HappyWars
+CMakeLists.txt.user
+build
