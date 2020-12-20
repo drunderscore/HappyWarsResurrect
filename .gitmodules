@@ -1,6 +1,3 @@
-[submodule "libfruit"]
-	path = libfruit
-	url = https://github.com/drunderscore/libfruit
 [submodule "LibFruit"]
 	path = LibFruit
-	url = https://gibhub.com/drunderscore/LibFruit
+	url = https://github.com/drunderscore/LibFruit
